@@ -1,0 +1,147 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:layout_weight="9.31"
+        card_view:cardCornerRadius="12dp"
+        card_view:contentPadding="4dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true"
+            android:orientation="vertical"
+            android:paddingLeft="16dp"
+            android:paddingTop="10dp"
+            android:paddingRight="16dp"
+            android:paddingBottom="10dp">
+
+            <TextView
+                android:id="@+id/txtKodeResep"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:text="No Resep : "
+                android:textSize="14sp"
+                card_view:layout_constraintEnd_toEndOf="parent"
+                card_view:layout_constraintHorizontal_bias="0.0"
+                card_view:layout_constraintStart_toStartOf="parent"
+                card_view:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/txtNamaAntrianFarmasi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="4dp"
+                android:layout_marginEnd="8dp"
+                android:text="Nama :"
+                android:textAlignment="gravity"
+                card_view:layout_constraintEnd_toEndOf="parent"
+                card_view:layout_constraintHorizontal_bias="0.0"
+                card_view:layout_constraintStart_toStartOf="parent"
+                card_view:layout_constraintTop_toBottomOf="@+id/txtNoAntrianFarmasi" />
+
+            <TextView
+                android:id="@+id/txtStatusAntrian"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="4dp"
+                android:layout_marginEnd="8dp"
+                android:text="Status : "
+                android:textAlignment="gravity"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                card_view:layout_constraintEnd_toEndOf="parent"
+                card_view:layout_constraintHorizontal_bias="0.0"
+                card_view:layout_constraintStart_toStartOf="parent"
+                card_view:layout_constraintTop_toBottomOf="@+id/txtKlinikFarmasi" />
+
+
+            <com.kofigyan.stateprogressbar.StateProgressBar
+                android:id="@+id/farmasiProgessAntrian"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                card_view:layout_constraintBottom_toBottomOf="parent"
+                card_view:layout_constraintEnd_toEndOf="parent"
+                card_view:layout_constraintStart_toStartOf="parent"
+                card_view:layout_constraintTop_toBottomOf="@+id/txtStatusAntrian"
+                card_view:layout_constraintVertical_bias="1.0"
+                card_view:spb_animateToCurrentProgressState="true"
+                card_view:spb_currentStateDescriptionColor="@color/foreground_color"
+                card_view:spb_currentStateNumber="one"
+                card_view:spb_descriptionLinesSpacing="7dp"
+                card_view:spb_descriptionTopSpaceIncrementer="3dp"
+                card_view:spb_maxStateNumber="four"
+                card_view:spb_stateBackgroundColor="#0328fc"
+                card_view:spb_stateDescriptionColor="#0328fc"
+                card_view:spb_stateForegroundColor="#0328fc"
+                card_view:spb_stateNumberBackgroundColor="#0328fc"
+                card_view:spb_stateNumberForegroundColor="#eeeeee"
+                card_view:spb_stateDescriptionSize="9.3dp" />
+                <!--card_view:spb_stateDescriptionSize="12dp"
+                card_view:spb_stateTextSize="9dp" -->
+
+            <TextView
+                android:id="@+id/txtDokterFarmasi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="4dp"
+                android:layout_marginEnd="8dp"
+                android:text="Dokter : "
+                card_view:layout_constraintEnd_toEndOf="parent"
+                card_view:layout_constraintHorizontal_bias="0.0"
+                card_view:layout_constraintStart_toStartOf="parent"
+                card_view:layout_constraintTop_toBottomOf="@+id/txtNamaAntrianFarmasi" />
+
+            <TextView
+                android:id="@+id/txtKlinikFarmasi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="4dp"
+                android:layout_marginEnd="8dp"
+                android:text="Klinik : "
+                card_view:layout_constraintEnd_toEndOf="parent"
+                card_view:layout_constraintHorizontal_bias="0.0"
+                card_view:layout_constraintStart_toStartOf="parent"
+                card_view:layout_constraintTop_toBottomOf="@+id/txtDokterFarmasi" />
+
+            <TextView
+                android:id="@+id/txtNoAntrianFarmasi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="4dp"
+                android:layout_marginEnd="8dp"
+                android:text="No Antrian : --"
+                card_view:layout_constraintEnd_toEndOf="parent"
+                card_view:layout_constraintHorizontal_bias="0.0"
+                card_view:layout_constraintStart_toStartOf="parent"
+                card_view:layout_constraintTop_toBottomOf="@+id/txtKodeResep" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout >
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>
+

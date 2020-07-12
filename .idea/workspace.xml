@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel_2" />
+        <device id="4in WVGA (Nexus S)" />
+        <device id="5.1in WVGA" />
+        <device id="pixel" />
+        <device id="tv_720p" />
+        <device id="Nexus 6P" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Firebase" />
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <last-search-timestamp>1578273369437</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c65a51ad-d82a-4d05-91be-bd2b668b5421" name="Default" comment="Update 2020">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/network_security_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/bethesda/com/bethesdahospitalmobile/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/antrian/AllStatesCompletedActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/antrian/AntrianFarmasiActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/antrian/AntrianKlinikActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/antrian/DokterAntrianPickerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/antrian/KlinikAntrianPickerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/antrian/adapter/AntrianFarmasiAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/antrian/model/Antrian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/antrian/model/AntrianFarmasi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/antrian/model/AntrianResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/antrian/service/AntrianFarmasiServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/antrian/service/AntrianKlinikServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/info/JamBesukActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/info/KlinikDescActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/login/LoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/login/model/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/login/service/LoginServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/main/IntroActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/main/MainMenuActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/main/adapter/MenuAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/main/model/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/pum/PumOrderActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/pum/model/Pum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/pum/model/PumCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/pum/model/PumOrderResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/pum/service/PumOrderServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/registration/CalendarPicker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/registration/DokterPickerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/registration/KlinikPickerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/registration/RegistrationActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/registration/RegistrationHistoryActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/registration/adapter/DokterListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/registration/adapter/KlinikListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/registration/adapter/RegistrationHistoryAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/registration/model/Dokter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/registration/model/InfoDatangDokter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/registration/model/Klinik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/registration/model/Registration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/registration/model/RegistrationResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/registration/service/DokterServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/registration/service/KlinikServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/registration/service/RegistrationServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/room/EmptyRoomActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/room/adapter/RoomAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/room/model/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/room/service/RoomServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/schedule/DokterScheduleFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/schedule/KlinikScheduleFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/schedule/ScheduleActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/schedule/ThirdFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/schedule/adapter/DokterScheduleAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/schedule/adapter/KlinikDokterScheduleAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/schedule/model/DokterKlinikSchedule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/schedule/service/DokterScheduleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/schedule/service/KlinikScheduleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/telemedicine/TelemedicineMainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/telemedicine/TelemedicineRajalFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/telemedicine/TelemedicineRanapFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/telemedicine/adapter/KunjunganRajalListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/telemedicine/adapter/KunjunganRanapListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/telemedicine/model/KunjunganRajal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/telemedicine/model/KunjunganRanap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/telemedicine/service/TelemedicineServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/utility/ApkUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/utility/AutoFitGridLayoutManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/utility/CircularTextView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/utility/DatabaseHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/utility/DateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/utility/DialogAlert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/utility/NetworkStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/utility/SharedData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/utility/WebServicesUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/calendar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/clock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/doctor.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/doctor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/gpvch_app_icon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/gpvch_app_icon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/klinik.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/klinik.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/logo_bethesda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/registration.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/stetoskop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_antrian_farmasi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_antrian_farmasi.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_antrian_klinik.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_antrian_klinik.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_calendar_picker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_calendar_picker.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_empty_room.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_empty_room.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_intro.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_intro.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_jam_besuk.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_jam_besuk.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_klinik_desc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_klinik_desc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_pum_order.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pum_order.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_registration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_registration.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_registration_history.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_registration_history.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_telemedicine_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_telemedicine_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dokter_item_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dokter_item_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_dokter_schedule.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_dokter_schedule.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_klinik_schedule.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_klinik_schedule.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_telemedicine_rajal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_telemedicine_rajal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_telemedicine_ranap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_telemedicine_ranap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/menu_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/menu_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/registration_history_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/registration_history_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/room_item_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/room_item_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_logo_bethesda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_logo_bethesda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_logo_bethesda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_logo_bethesda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_logo_bethesda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/bethesda/com/bethesdahospitalmobile/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/java/com/robohorse/gpversionchecker/GPVersionChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/java/com/robohorse/gpversionchecker/VersionCheckerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/java/com/robohorse/gpversionchecker/debug/ALog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/java/com/robohorse/gpversionchecker/domain/CheckingStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/java/com/robohorse/gpversionchecker/domain/Version.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/java/com/robohorse/gpversionchecker/domain/VersionCheckedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/java/com/robohorse/gpversionchecker/domain/VersionInfoListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/java/com/robohorse/gpversionchecker/manager/ServiceStartManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/java/com/robohorse/gpversionchecker/manager/UIManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/java/com/robohorse/gpversionchecker/provider/SharedDataProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/java/com/robohorse/gpversionchecker/utils/DataParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/java/com/robohorse/gpversionchecker/utils/DateFormatUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/res/drawable/gpvch_app_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/res/drawable/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/res/layout/gpvch_layout_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/res/values/color.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/test/java/com/robohorse/gpversionchecker/DataParserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/test/java/com/robohorse/gpversionchecker/ServiceStartManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/test/java/com/robohorse/gpversionchecker/VersionCheckerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/test/java/com/robohorse/gpversionchecker/utils/AssetsReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/test/resources/sample_app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/test/resources/sample_app_empty_version.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpversionchecker/src/test/resources/sample_app_symbol_version.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="J9AXGF02T3485TP" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/gpversionchecker">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BethesdaMobile" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BethesdaMobile" type="f1a62948:ProjectNode" />
+                <item name=":gpversionchecker" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BethesdaMobile" type="f1a62948:ProjectNode" />
+                <item name=":gpversionchecker" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BethesdaMobile" type="f1a62948:ProjectNode" />
+                <item name=":gpversionchecker" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="help" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dokter_item_list.xml">
+          <provider editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_schedule.xml">
+          <provider editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_klinik_schedule.xml">
+          <provider editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_dokter_schedule.xml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_registration_history.xml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_registration.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="48" column="64" selection-start-line="48" selection-start-column="64" selection-end-line="48" selection-end-column="64" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/klinik_item_list.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ndroid.support.constraint.ConstraintLayout</find>
+      <find>android.support.constraint.ConstraintLayout</find>
+      <find>android.support.design.widget.TextInputLayout</find>
+      <find>androidx.appcompat.widget.AppCompatImageView</find>
+      <find>androidx.appcompat.widget.CardView</find>
+      <find>appcompatbutton</find>
+      <find>android.support.v7.widget.AppCompatImageView</find>
+      <find>android.support.design.widget.TabLayout</find>
+      <find>android.support.design.widget.AppBarLayout</find>
+      <find>androidx.design.widget.TextInputLayout</find>
+      <find>android.support.design.widget.TextInputEditText</find>
+      <find>com.google.android.material.textfield.TextInputEditText</find>
+      <find>iewpager_position</find>
+      <find>onCrea</find>
+      <find>date</find>
+      <find>datePicker</find>
+      <find>onDateSet</find>
+      <find>burr</find>
+      <find>card_view</find>
+      <find>rajal</find>
+      <find>notif</find>
+      <find>post</find>
+      <find>ada</find>
+      <find>Dokter</find>
+      <find>rv</find>
+      <find>TextInputLayout</find>
+      <find>launc</find>
+      <find>version</find>
+      <find>resep</find>
+      <find>message</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Klinik</replace>
+      <replace>klinikList</replace>
+      <replace>androidx.appcompat.widget.AppCompatTextView</replace>
+      <replace>androidx.constraintlayout.widget.ConstraintLayout</replace>
+      <replace>androidx.appcompat.widget.AppCompatImageView</replace>
+      <replace>com.google.android.material.textfield.TextInputLayout</replace>
+      <replace>androidx.cardview.widget.CardView</replace>
+      <replace>ImageView</replace>
+      <replace>com.google.android.material.appbar.AppBarLayout</replace>
+      <replace>com.google.android.material.tabs.TabLayout</replace>
+      <replace>com.google.android.material.textfield.TextInputEditText</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Wendra\AndroidStudioProjects\BethesdaMobile\app\src\main\java\bethesda\com\bethesdahospitalmobile\main\pum</dir>
+      <dir>D:\Android Project\BethesdaMobile\app</dir>
+    </dirStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="D:\Keys\bethesda_key.jks" />
+    <option name="KEY_ALIAS" value="bethesda_key" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="wendor" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/telemedicine/adapter/KunjunganRanapListAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/telemedicine/service/TelemedicineServices.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/telemedicine/TelemedicineMainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/main/MainMenuActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/kunjungan_ranap_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/kunjungan_pasien_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/telemedicine/TelemedicineRajalFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/telemedicine/TelemedicineRanapFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/main/IntroActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/informconsentlayout.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/telemedicine/adapter/KunjunganRajalListAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/xml/network_security_config.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/utility/WebServicesUtil.java" />
+        <option value="$PROJECT_DIR$/../BethesdaMobile/app/src/main/java/bethesda/com/bethesdahospitalmobile/main/main/MainMenuActivity.java" />
+        <option value="$PROJECT_DIR$/../BethesdaMobile/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bethesda/com/ngestiwaluyomobile/main/antrian/AllStatesCompletedActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/antrian/AllStatesCompletedActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_telemedicine_rajal.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_telemedicine_ranap.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_pum_order.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/gpvch_app_icon.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_antrian_farmasi.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_antrian_klinik.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_empty_room.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/main/IntroActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/registration/RegistrationActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/pum/PumOrderActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/login/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/utility/DialogAlert.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/utility/WebServicesUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_intro.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main_menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_klinik_desc.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_registration_history.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_registration.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/dokter_item_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/registration_history_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/room_item_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/room/service/RoomServices.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/main/MainMenuActivity.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/menu_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_klinik_schedule.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_dokter_schedule.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_jam_besuk.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1386" />
+    <option name="height" value="747" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages AndroidView="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="NgestiWaluyoMobile_Review" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\Android Project\NgestiWaluyoMobile_Review" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NgestiWaluyoMobile_Review" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NgestiWaluyoMobile_Review" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NgestiWaluyoMobile" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="NgestiWaluyoMobile" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="NgestiWaluyoMobile" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="ngestiwaluyo" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NgestiWaluyoMobile" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="ngestiwaluyo" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NgestiWaluyoMobile" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="ngestiwaluyo" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ngestiwaluyomobile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NgestiWaluyoMobile" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="ngestiwaluyo" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ngestiwaluyomobile" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NgestiWaluyoMobile" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="ngestiwaluyo" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ngestiwaluyomobile" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="room" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="5.4_FWVGA_API_28" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-06-23T05:54:21.924Z" />
+    <property name="ExportApk.ApkPath" value="D:\Android Project\BethesdaMobile\app\release" />
+    <property name="ExportApk.BuildType" value="release" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.Flavors" value="" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="12c8316b" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Signing Configs" />
+    <option name="BUILD_VARIANTS_TAB" value="Flavors" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="debug" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Wendra\AndroidStudioProjects\BethesdaMobile\app\src\main\res\layout" />
+      <recent name="C:\Users\Wendra\AndroidStudioProjects\BethesdaMobile\app\src\main\res\layout\klinik_description" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="bethesda.com.bethesdahospitalmobile.main.telemedicine.adapter" />
+      <recent name="bethesda.com.bethesdahospitalmobile.main.telemedicine" />
+      <recent name="bethesda.com.bethesdahospitalmobile.main.pum" />
+      <recent name="bethesda.com.bethesdahospitalmobile.main.antrian" />
+      <recent name="com.bethesda.bethesdahospitalmobile" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="bethesda.com.bethesdahospitalmobile.main.telemedicine" />
+      <recent name="bethesda.com.bethesdahospitalmobile.main.telemedicine.adapter" />
+      <recent name="bethesda.com.bethesdahospitalmobile.main.registration.adapter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Android Project\BethesdaMobile\app\src\main\res\layout" />
+      <recent name="C:\Users\Wendra\AndroidStudioProjects\BethesdaMobile\app\src\main\java\bethesda\com\bethesdahospitalmobile\main\antrian" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ASUS\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c65a51ad-d82a-4d05-91be-bd2b668b5421" name="Default" comment="" />
+      <created>1534476608231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534476608231</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Update 2020">
+      <created>1593684971830</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593684971830</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28016195" />
+      <window_info id="Structure" order="1" weight="0.24966443" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Captures" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Resources Explorer" order="8" weight="0.3295302" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.3250444" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6928896" weight="0.32569557" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49473685" weight="0.24511546" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49167928" weight="0.3250444" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.8834008" visible="true" weight="0.22202487" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" sideWeight="0.49932885" weight="0.32719547" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50526315" side_tool="true" weight="0.5026643" />
+      <window_info anchor="bottom" id="Logcat" order="10" sideWeight="0.7408907" weight="0.27175844" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4969743" weight="0.32569557" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32827735" />
+      <window_info anchor="bottom" id="SVN Repositories" order="13" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.020134227" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.2340081" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" weight="0.020805368" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.17651007" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" x="-434" y="764" width="1732" height="842" id="Documentation" order="9" weight="0.32975295" />
+      <window_info anchor="right" id="Assistant" order="10" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29211086" />
+      <window_info id="Structure" order="1" weight="0.24966443" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Captures" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Resources Explorer" order="8" weight="0.3295302" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8390192" weight="0.32719395" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840087" weight="0.42145178" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4968017" weight="0.32827735" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.8496802" weight="0.17226435" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" weight="0.32827735" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50319827" side_tool="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Logcat" order="10" sideWeight="0.7446695" weight="0.27410617" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49932885" weight="0.32719395" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32827735" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.08187919" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.23489933" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" weight="0.020805368" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.17651007" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" x="-434" y="764" width="1732" height="842" id="Documentation" order="9" weight="0.32975295" />
+      <window_info anchor="right" id="Assistant" order="10" weight="0.3295302" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update 2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2020" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/info/KlinikDescActivity.java</url>
+          <line>7</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/antrian/KlinikAntrianPickerActivity.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/utility/DatabaseHandler.java</url>
+          <line>162</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/utility/DatabaseHandler.java</url>
+          <line>331</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/utility/DatabaseHandler.java</url>
+          <line>274</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/utility/DatabaseHandler.java</url>
+          <line>340</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/utility/DatabaseHandler.java</url>
+          <line>297</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/utility/ApkUtil.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/main/IntroActivity.java</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="app">
+        <watch expression="SharedData.getKey(MainMenuActivity.this,&quot;statusTelemedicine&quot;).toString().toLowerCase()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>SharedData.getKey(MainMenuActivity.this,&quot;statusTelemedicine&quot;).toString().toLowerCase()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>SharedData.getKey(MainMenuActivity.this,&quot;statusTelemedicine&quot;)==&quot;false&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>SharedData.getKey(MainMenuActivity.this,&quot;statusTelemedicine&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>customViewHolder.txtNoReg</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>kunjunganranap.getNoReg()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>whereClause</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/gpvch_app_icon.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/registration/RegistrationActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/pum/PumOrderActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/login/LoginActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/utility/DialogAlert.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_all_states_completed.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_antrian_farmasi.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/main/model/Menu.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/network_security_config.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/utility/WebServicesUtil.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="263" column="28" lean-forward="true" selection-start-line="263" selection-start-column="28" selection-end-line="263" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/os/AsyncTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="340" selection-start-line="340" selection-end-line="340" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/main/IntroActivity.java" />
+    <entry file="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4fe44ae24daa7cfa2dd483a5d3b65a2f/cardview-1.0.0/res/values/values.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/progress_bar.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="65" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main_menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="62" lean-forward="true" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="74" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/utility/NetworkStatus.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_antrian_klinik.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_calendar_picker.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_dokter_picker.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_empty_room.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_image_slider.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_klinik_picker.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_intro.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="54" column="62" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="62" />
+          <folding>
+            <element signature="e#2470#2491#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_klinik_desc.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dokter_schedule_list.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/registration_history_list.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/room_item_list.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/room/EmptyRoomActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/room/service/RoomServices.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ngestiwaluyo/com/ngestiwaluyomobile/main/main/MainMenuActivity.java" />
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/menu_item.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="59" column="96" selection-start-line="59" selection-start-column="96" selection-end-line="59" selection-end-column="96" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_jam_besuk.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="32" column="65" selection-start-line="32" selection-start-column="65" selection-end-line="32" selection-end-column="65" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/klinik_schedule_list.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dokter_item_list.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_schedule.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_klinik_schedule.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_dokter_schedule.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_registration_history.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_registration.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="64" selection-start-line="48" selection-start-column="64" selection-end-line="48" selection-end-column="64" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/klinik_item_list.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

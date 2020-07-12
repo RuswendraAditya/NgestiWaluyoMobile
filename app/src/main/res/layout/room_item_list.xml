@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/Light_green_custom"
+    android:padding="15dp">
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/txtNamaKelas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:fontFamily="sans-serif-condensed"
+        android:padding="1dp"
+        android:text="Kelas Utama"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="@color/design_default_color_primary_dark"
+        android:textSize="11sp"
+        android:textStyle="bold"
+        android:typeface="normal"
+        app:fontFamily="sans-serif-condensed" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/txtKosong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtKlinikHistory"
+        android:gravity="left|bottom"
+        android:text="Kosong : 12"
+        android:textColor="@color/design_default_color_error"
+        android:textSize="11sp"
+        android:typeface="serif"
+        app:fontFamily="sans-serif" />
+</LinearLayout>

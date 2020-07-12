@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: pl.hypeapp:materialtimelineview:1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e66aa1d2d12f9ddea6b1886e0730e2c5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e66aa1d2d12f9ddea6b1886e0730e2c5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pl.hypeapp/materialtimelineview/1.1/2971e380b1e7de724ab957d45c1dcde174e865e6/materialtimelineview-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

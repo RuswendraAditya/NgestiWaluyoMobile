@@ -1,0 +1,171 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:layout_weight="9.31"
+        card_view:cardCornerRadius="12dp"
+        card_view:contentPadding="4dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true"
+            android:orientation="vertical"
+            android:paddingLeft="16dp"
+            android:paddingTop="10dp"
+            android:paddingRight="16dp"
+            android:paddingBottom="10dp">
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/txtTanggalHistory"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtKlinikHistory"
+                android:layout_alignStart="@+id/txtKlinikHistory"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="-5dp"
+                android:layout_marginRight="8dp"
+                android:text="Tgl : Test"
+                android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+                android:textColor="@color/mdtp_done_text_color_normal"
+                android:textSize="12sp"
+                card_view:layout_constraintHorizontal_bias="0.0"
+                card_view:layout_constraintLeft_toLeftOf="parent"
+                card_view:layout_constraintRight_toLeftOf="@+id/txtAntrianHistory"
+                card_view:layout_constraintTop_toBottomOf="@+id/txtKlinikHistory" />
+
+            <ngestiwaluyo.com.ngestiwaluyomobile.main.utility.CircularTextView
+                android:id="@+id/txtAntrianHistory"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/txtDokterHistory"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginBottom="8dp"
+                android:fontFamily="sans-serif-condensed"
+                android:gravity="center"
+                android:padding="3dp"
+                android:text="11"
+                android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+                android:textColor="@color/mdtp_done_text_color_normal"
+                android:textSize="30sp"
+                card_view:layout_constraintBottom_toBottomOf="parent"
+                card_view:layout_constraintHorizontal_bias="0.833"
+                card_view:layout_constraintLeft_toLeftOf="parent"
+                card_view:layout_constraintRight_toRightOf="parent"
+                card_view:layout_constraintTop_toTopOf="parent"
+                card_view:layout_constraintVertical_bias="0.361" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/txtKlinikHistory"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="9dp"
+                android:layout_marginRight="8dp"
+                android:text="Klinik Anak"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                android:textSize="14sp"
+                card_view:layout_constraintHorizontal_bias="0.0"
+                card_view:layout_constraintLeft_toLeftOf="parent"
+                card_view:layout_constraintRight_toRightOf="parent"
+                card_view:layout_constraintTop_toTopOf="parent" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/txtNamaPasienHistory"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtTanggalHistory"
+                android:layout_alignStart="@+id/txtTanggalHistory"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="-11dp"
+                android:layout_marginRight="73dp"
+                android:text="Nama Pasien: Test"
+                android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+                android:textColor="@color/mdtp_done_text_color_normal"
+                android:textSize="12sp"
+                card_view:layout_constraintHorizontal_bias="0.0"
+                card_view:layout_constraintLeft_toLeftOf="parent"
+                card_view:layout_constraintRight_toLeftOf="@+id/txtAntrianHistory"
+                card_view:layout_constraintTop_toBottomOf="@+id/txtTanggalHistory" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/txtDokterHistory"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtNamaPasienHistory"
+                android:layout_alignStart="@+id/txtNamaPasienHistory"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginBottom="8dp"
+                android:text="Dokter : Test"
+                android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+                android:textColor="@color/mdtp_done_text_color_normal"
+                android:textSize="12sp"
+                card_view:layout_constraintBottom_toBottomOf="parent"
+                card_view:layout_constraintHorizontal_bias="0.0"
+                card_view:layout_constraintLeft_toLeftOf="parent"
+                card_view:layout_constraintRight_toLeftOf="@+id/txtAntrianHistory"
+                card_view:layout_constraintTop_toBottomOf="@+id/txtNamaPasienHistory"
+                card_view:layout_constraintVertical_bias="0.0" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/txtJamStart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginEnd="8dp"
+                android:text="Jam Mulai Praktek : --:-- "
+                android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+                android:textColor="@color/mdtp_done_text_color_normal"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                card_view:fontFamily="sans-serif-condensed-medium"
+                card_view:layout_constraintEnd_toStartOf="@+id/txtAntrianHistory"
+                card_view:layout_constraintHorizontal_bias="0.0"
+                card_view:layout_constraintStart_toStartOf="parent"
+                card_view:layout_constraintTop_toBottomOf="@+id/txtDokterHistory" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/txtJamDatang"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
+                android:text="Perkiraan Jam Dilayani : --:--"
+                android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+                android:textColor="@color/mdtp_done_text_color_normal"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                card_view:fontFamily="sans-serif-condensed-medium"
+                card_view:layout_constraintBottom_toBottomOf="parent"
+                card_view:layout_constraintEnd_toStartOf="@+id/txtAntrianHistory"
+                card_view:layout_constraintHorizontal_bias="0.0"
+                card_view:layout_constraintStart_toStartOf="parent"
+                card_view:layout_constraintTop_toBottomOf="@+id/txtJamStart"
+                card_view:layout_constraintVertical_bias="0.0" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>
+

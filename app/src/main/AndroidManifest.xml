@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ngestiwaluyo.com.ngestiwaluyomobile">
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_logo_rsnw"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_logo_rsnw"
+        android:supportsRtl="true"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:theme="@style/BethesdaTheme"
+        android:usesCleartextTraffic="true">
+
+        <activity
+            android:name="ngestiwaluyo.com.ngestiwaluyomobile.main.antrian.AllStatesCompletedActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ngestiwaluyo.com.ngestiwaluyomobile.main.antrian.AntrianFarmasiActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ngestiwaluyo.com.ngestiwaluyomobile.main.antrian.AntrianKlinikActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="ngestiwaluyo.com.ngestiwaluyomobile.main.pum.PumOrderActivity" />
+        <activity
+            android:name="ngestiwaluyo.com.ngestiwaluyomobile.main.main.IntroActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ngestiwaluyo.com.ngestiwaluyomobile.main.login.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ngestiwaluyo.com.ngestiwaluyomobile.main.main.MainMenuActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ngestiwaluyo.com.ngestiwaluyomobile.main.registration.KlinikPickerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ngestiwaluyo.com.ngestiwaluyomobile.main.registration.RegistrationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ngestiwaluyo.com.ngestiwaluyomobile.main.registration.DokterPickerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ngestiwaluyo.com.ngestiwaluyomobile.main.registration.RegistrationHistoryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ngestiwaluyo.com.ngestiwaluyomobile.main.schedule.ScheduleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ngestiwaluyo.com.ngestiwaluyomobile.main.room.EmptyRoomActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="ngestiwaluyo.com.ngestiwaluyomobile.main.registration.CalendarPicker" />
+        <activity
+            android:name="ngestiwaluyo.com.ngestiwaluyomobile.main.info.JamBesukActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ngestiwaluyo.com.ngestiwaluyomobile.main.info.KlinikDescActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ngestiwaluyo.com.ngestiwaluyomobile.main.antrian.KlinikAntrianPickerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ngestiwaluyo.com.ngestiwaluyomobile.main.antrian.DokterAntrianPickerActivity"
+            android:screenOrientation="portrait" />
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBnpi2QlhxuVXhyduNA0J7mpLVoi-XcI-w" />
+    </application>
+
+</manifest>
